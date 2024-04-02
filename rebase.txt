@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Rebase example
 New content
-=======
 Additional content
->>>>>>> 1da4084 (rebase test in another branch)
